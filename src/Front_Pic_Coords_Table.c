@@ -6343,5 +6343,140 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
+	[SPECIES_MISSINGNO] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_WYRDEER] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_VOLTORB_H] = 
+	{
+		.size = 0x44,
+		.y_offset = 0x11,
+	},
+	[SPECIES_ELECTRODE_H] =
+	{
+		.size = 0x55,
+		.y_offset = 0xb,
+	},
+	[SPECIES_URSALUNA] =
+	{
+		.size = 0x78,
+		.y_offset = 0x2,
+	},
+	[SPECIES_BRAVIARY_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x1,
+	},
+	[SPECIES_QWILFISH_H] =
+	{
+		.size = 0x56,
+		.y_offset = 0x8,
+	},
+	[SPECIES_OVERQWIL] =
+	{
+		.size = 0x56,
+		.y_offset = 0x4,
+	},
+	[SPECIES_DECIDUEYE_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SAMUROTT_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_TYPHLOSION_H] =
+	{
+		.size = 0x78,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SNEASEL_H] =
+	{
+		.size = 0x67,
+		.y_offset = 0x8,
+	},
+	[SPECIES_SNEASLER] =
+	{
+		.size = 0x67,
+		.y_offset = 0x8,
+	},
+	[SPECIES_ZORUA_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0xb,
+	},
+	[SPECIES_ZOROARK_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x2,
+	},
+	[SPECIES_GROWLITHE_H] =
+	{
+		.size = 0x65,
+		.y_offset = 0xb,
+	},
+	[SPECIES_ARCANINE_H] =
+	{
+		.size = 0x88,
+		.y_offset = 0x2,
+	},
+	[SPECIES_BASCULIN_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0xd,
+	},
+	[SPECIES_BASCULEGION] =
+	{
+		.size = 0x0,
+		.y_offset = 0x2,
+	},
+	[SPECIES_KLEAVOR] =
+	{
+		.size = 0x88,
+		.y_offset = 0x2,
+	},
+	[SPECIES_LUGIA_S] =
+	{
+		.size = 0x88,
+		.y_offset = 0x0,
+	},
+	[SPECIES_AVALUGG_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_LILLIGANT_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SLIGGOO_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x6,
+	},
+	[SPECIES_GOODRA_H] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_ENAMORUS] =
+	{
+		.size = 0x0,
+		.y_offset = 0x1,
+	},
+	[SPECIES_ENAMORUS_T] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
 };
 

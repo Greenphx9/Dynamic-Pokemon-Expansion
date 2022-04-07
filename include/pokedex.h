@@ -1007,8 +1007,16 @@ enum
 #define NATIONAL_DEX_GLASTRIER 896
 #define NATIONAL_DEX_SPECTRIER 897
 #define NATIONAL_DEX_CALYREX 898
+#define NATIONAL_DEX_WYRDEER 899
+#define NATIONAL_DEX_KLEAVOR 900
+#define NATIONAL_DEX_URSALUNA 901
+#define NATIONAL_DEX_BASCULEGION 902
+#define NATIONAL_DEX_SNEASLER 903
+#define NATIONAL_DEX_OVERQWIL 904
+#define NATIONAL_DEX_ENAMORUS 905
+#define NATIONAL_DEX_MISSINGNO 906
 
-#define FINAL_DEX_ENTRY NATIONAL_DEX_CALYREX //Not +1 b/c used like this for some asm
+#define FINAL_DEX_ENTRY NATIONAL_DEX_MISSINGNO //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
 
 extern const u8 DEX_ENTRY_TURTWIG[];
@@ -1594,3 +1602,32 @@ extern const u8 DEX_ENTRY_URSHIFU_RAPID[];
 extern const u8 DEX_ENTRY_ZARUDE_DADA[];
 extern const u8 DEX_ENTRY_CALYREX_ICE_RIDER[];
 extern const u8 DEX_ENTRY_CALYREX_SHADOW_RIDER[];
+
+extern const u8 DEX_ENTRY_VOLTORB_H[];
+extern const u8 DEX_ENTRY_ELECTRODE_H[];
+extern const u8 DEX_ENTRY_ZORUA_H[];
+extern const u8 DEX_ENTRY_BRAVIARY_H[];
+extern const u8 DEX_ENTRY_QWILFISH_H[];
+extern const u8 DEX_ENTRY_DECIDUEYE_H[];
+extern const u8 DEX_ENTRY_SAMUROTT_H[];
+extern const u8 DEX_ENTRY_TYPHLOSION_H[];
+extern const u8 DEX_ENTRY_AVALUGG_H[];
+extern const u8 DEX_ENTRY_LUGIA_S[];
+extern const u8 DEX_ENTRY_SNEASEL_H[];
+extern const u8 DEX_ENTRY_ZOROARK_H[];
+extern const u8 DEX_ENTRY_GROWLITHE_H[];
+extern const u8 DEX_ENTRY_ARCANINE_H[];
+extern const u8 DEX_ENTRY_BASCULIN_H[];
+extern const u8 DEX_ENTRY_LILLIGANT_H[];
+extern const u8 DEX_ENTRY_SLIGGOO_H[];
+extern const u8 DEX_ENTRY_GOODRA_H[];
+extern const u8 DEX_ENTRY_ENAMORUS_T[];
+
+extern const u8 DEX_ENTRY_MISSINGNO[];
+extern const u8 DEX_ENTRY_WYRDEER[];
+extern const u8 DEX_ENTRY_URSALUNA[];
+extern const u8 DEX_ENTRY_OVERQWIL[];
+extern const u8 DEX_ENTRY_SNEASLER[];
+extern const u8 DEX_ENTRY_BASCULEGION[];
+extern const u8 DEX_ENTRY_KLEAVOR[];
+extern const u8 DEX_ENTRY_ENAMORUS[];

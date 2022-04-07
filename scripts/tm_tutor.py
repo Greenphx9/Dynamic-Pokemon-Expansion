@@ -4,8 +4,8 @@ from glob import glob
 
 # Data
 TM_HM_COUNT = 128
-TUTOR_COUNT = 128
-SPECIES_COUNT = 0x4F3 + 1
+TUTOR_COUNT = 160
+SPECIES_COUNT = 0x50E + 1
 
 TM_OUTPUT = "assembly/generated/tm_compatibility.s"
 TUTOR_OUTPUT = "assembly/generated/tutor_compatibility.s"
@@ -28,7 +28,7 @@ def DataBuilder(directory: str, numEntries: int, outputFile: str, dataType: str)
     if os.path.isfile(outputFile) and max(list(map(os.path.getmtime, fileList))) < os.path.getmtime(outputFile):
         return
 
-    print("Processing {} Data.".format(dataType))
+    print("Processing {} Data.".format(dataType)) 
     output = open(outputFile, 'w')
     compatibilityTable = PokemonDataListInitializer(numEntries)
 
@@ -107,6 +107,9 @@ def ReverseString(string: str) -> str:
 
 
 def PokemonDataListInitializer(numEntries: int) -> [[]]:
+    if numEntries % 32 != 0:
+        numEntries = 32 * (numEntries // 32 + 1)  # Round up to the nearest multiple of 32
+
     outerList = []
     for a in range(int(SPECIES_COUNT)):
         innerList = [0] * numEntries
