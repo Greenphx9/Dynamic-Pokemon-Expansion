@@ -1401,7 +1401,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_SCEPTILE] =
 	{
 		.size = 0x88,
-		.y_offset = 0x1,
+		.y_offset = 0x0,
 	},
 	[SPECIES_TORCHIC] =
 	{
@@ -4201,7 +4201,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_ASHGRENINJA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x5,
+		.y_offset = 0x0,
 	},
 	[SPECIES_FLABEBE_BLUE] =
 	{
@@ -4711,7 +4711,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_DECIDUEYE] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_LITTEN] =
 	{
