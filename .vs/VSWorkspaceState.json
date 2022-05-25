@@ -2,12 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\include",
-    "\\scripts",
     "\\src",
-    "\\src\\tm_compatibility",
-    "\\src\\tutor_compatibility",
     "\\strings"
   ],
-  "SelectedNode": "\\src\\tutor_compatibility\\121 - Close Combat.txt",
+  "SelectedNode": "\\include\\abilities.h",
   "PreviewInSolutionExplorer": false
 }

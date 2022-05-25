@@ -16,10 +16,10 @@ add r3, #EVOS_PER_MON * 8
 
 @@Fix Egg Hatching Time@@
 .org 0x46204, 0xFF
-.word gBaseStats + 0x11
+.word gBaseStats2 + 0x11
 
 .org 0x462A8, 0xFF
-.word gBaseStats + 0x11
+.word gBaseStats2 + 0x11
 
 @@Fix New Game Dex Flags Clear@@
 .org 0x549B0, 0xFF

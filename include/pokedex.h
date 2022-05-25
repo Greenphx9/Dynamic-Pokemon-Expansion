@@ -1622,6 +1622,7 @@ extern const u8 DEX_ENTRY_LILLIGANT_H[];
 extern const u8 DEX_ENTRY_SLIGGOO_H[];
 extern const u8 DEX_ENTRY_GOODRA_H[];
 extern const u8 DEX_ENTRY_ENAMORUS_T[];
+extern const u8 DEX_ENTRY_BUTTERFREE_GIGA[];
 
 extern const u8 DEX_ENTRY_MISSINGNO[];
 extern const u8 DEX_ENTRY_WYRDEER[];

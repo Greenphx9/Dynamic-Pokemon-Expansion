@@ -5426,7 +5426,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_MELMETAL] =
 	{
 		.size = 0x0,
-		.y_offset = 0x10,
+		.y_offset = 0xd,
 	},
 	[SPECIES_PIKACHU_SURFING] =
 	{
@@ -6376,12 +6376,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_QWILFISH_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x6,
+		.y_offset = 0x0,
 	},
 	[SPECIES_OVERQWIL] =
 	{
 		.size = 0x0,
-		.y_offset = 0x17,
+		.y_offset = 0x7,
 	},
 	[SPECIES_DECIDUEYE_H] =
 	{
@@ -6411,7 +6411,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_ZORUA_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x1,
 	},
 	[SPECIES_ZOROARK_H] =
 	{
@@ -6456,7 +6456,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_LILLIGANT_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x5,
 	},
 	[SPECIES_SLIGGOO_H] =
 	{
