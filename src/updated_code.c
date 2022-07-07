@@ -189,6 +189,9 @@ u16 TryGetFemaleGenderedSpecies(u16 species, u32 personality)
 			case SPECIES_PYROAR:
 				species = SPECIES_PYROAR_FEMALE;
 				break;
+			case SPECIES_BASCULEGION:
+				species = SPECIES_BASCULEGION_F;
+				break;
 		}
 	}
 	else if (species == SPECIES_XERNEAS && !gMain.inBattle)

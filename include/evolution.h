@@ -65,4 +65,5 @@ enum MegaEvoVariants
 #define MB_SHALLOW_WATER 0x17 //For Alolan Raichu
 
 #define MAPSEC_POWER_PLANT 0x8E
+#define MAPSEC_ROCK_TUNNEL                  0x8A
 #define MAPSEC_ICEFALL_CAVE 0xB1

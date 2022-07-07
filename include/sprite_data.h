@@ -1267,6 +1267,7 @@ extern const u8 gFrontSprite1256SliggooHTiles[];
 extern const u8 gFrontSprite1257GoodraHTiles[];
 extern const u8 gFrontSprite1258EnamorusTiles[];
 extern const u8 gFrontSprite1259EnamorusTTiles[];
+extern const u8 gFrontSprite1260BasculegionFTiles[];
 
 extern const u8 gFrontSprite252Tiles[];
 
@@ -2537,6 +2538,7 @@ extern const u8 gBackShinySprite1256SliggooHTiles[];
 extern const u8 gBackShinySprite1257GoodraHTiles[];
 extern const u8 gBackShinySprite1258EnamorusTiles[];
 extern const u8 gBackShinySprite1259EnamorusTTiles[];
+extern const u8 gBackShinySprite1260BasculegionFTiles[];
 
 extern const u8 gBackShinySprite252Tiles[];
 
@@ -3809,6 +3811,7 @@ extern const u8 gFrontSprite1256SliggooHPal[];
 extern const u8 gFrontSprite1257GoodraHPal[];
 extern const u8 gFrontSprite1258EnamorusPal[];
 extern const u8 gFrontSprite1259EnamorusTPal[];
+extern const u8 gFrontSprite1260BasculegionFPal[];
 
 extern const u8 gFrontSprite252Pal[];
 
@@ -5079,6 +5082,7 @@ extern const u8 gBackShinySprite1256SliggooHPal[];
 extern const u8 gBackShinySprite1257GoodraHPal[];
 extern const u8 gBackShinySprite1258EnamorusPal[];
 extern const u8 gBackShinySprite1259EnamorusTPal[];
+extern const u8 gBackShinySprite1260BasculegionFPal[];
 
 extern const u8 gBackShinySprite252Pal[];
 
@@ -6353,5 +6357,6 @@ extern const u8 gIconSprite1256SliggooHTiles[];
 extern const u8 gIconSprite1257GoodraHTiles[];
 extern const u8 gIconSprite1258EnamorusTiles[];
 extern const u8 gIconSprite1259EnamorusTTiles[];
+extern const u8 gIconSprite1260BasculegionFTiles[];
 
 extern const u8 gIconSprite252Tiles[];

@@ -1301,4 +1301,5 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_GOODRA_H] = { gFrontSprite1257GoodraHPal, SPECIES_GOODRA_H, 0x0 },
 	[SPECIES_ENAMORUS] = { gFrontSprite1258EnamorusPal, SPECIES_ENAMORUS, 0x0 },
 	[SPECIES_ENAMORUS_T] = { gFrontSprite1259EnamorusTPal, SPECIES_ENAMORUS_T, 0x0 },
+	[SPECIES_BASCULEGION_F] = { gFrontSprite1260BasculegionFPal, SPECIES_BASCULEGION_F, 0x0 },
 };

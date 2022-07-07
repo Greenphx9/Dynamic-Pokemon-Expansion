@@ -1301,4 +1301,5 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_GOODRA_H] =			 {gBackShinySprite1257GoodraHTiles, (64 * 64) / 2, SPECIES_GOODRA_H },
 	[SPECIES_ENAMORUS] =			 {gBackShinySprite1258EnamorusTiles, (64 * 64) / 2, SPECIES_ENAMORUS },
 	[SPECIES_ENAMORUS_T] =			 {gBackShinySprite1259EnamorusTTiles, (64 * 64) / 2, SPECIES_ENAMORUS_T },
+	[SPECIES_BASCULEGION_F] =		 {gBackShinySprite1260BasculegionFTiles, (64 * 64) / 2, SPECIES_BASCULEGION_F },
 };

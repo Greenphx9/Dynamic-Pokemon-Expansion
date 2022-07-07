@@ -1301,4 +1301,5 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_GOODRA_H] = { gBackShinySprite1257GoodraHPal, SPECIES_GOODRA_H + NUM_SPECIES, 0x0 },
 	[SPECIES_ENAMORUS] = { gBackShinySprite1258EnamorusPal, SPECIES_ENAMORUS + NUM_SPECIES, 0x0 },
 	[SPECIES_ENAMORUS_T] = { gBackShinySprite1259EnamorusTPal, SPECIES_ENAMORUS_T + NUM_SPECIES, 0x0 },
+	[SPECIES_BASCULEGION_F] = { gBackShinySprite1260BasculegionFPal, SPECIES_BASCULEGION_F + NUM_SPECIES, 0x0 },
 };
