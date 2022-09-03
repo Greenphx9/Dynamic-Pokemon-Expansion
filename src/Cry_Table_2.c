@@ -10722,7 +10722,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_DIALGA_PRIMAL] = 
+	[SPECIES_DIALGA_ORIGIN] = 
 	{	
 		.type = 0x30,
 		.key = 0x3c,
@@ -10734,7 +10734,7 @@ const struct ToneData gCryTable2[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-	[SPECIES_PALKIA_PRIMAL] = 
+	[SPECIES_PALKIA_ORIGIN] = 
 	{	
 		.type = 0x30,
 		.key = 0x3c,
