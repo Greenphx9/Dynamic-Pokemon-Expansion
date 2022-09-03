@@ -434,3 +434,9 @@ static u16 LoadNationalPokedexView(void)
 
 	return lastMeaningfulIndex;
 }
+
+//New
+const struct CompressedSpritePalette* GetMGiftMonPal(u16 species, u8 isShiny)
+{
+		return isShiny ? &gMonShinyPaletteTable[species] : &gMonPaletteTable[species];
+}
