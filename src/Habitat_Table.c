@@ -84,8 +84,8 @@ const u16 gGrasslandPage10[] =
 {
 	SPECIES_EKANS,
 	SPECIES_ARBOK,
-	SPECIES_SCYTHER,
-	SPECIES_SCIZOR,
+	SPECIES_LICKITUNG,
+	SPECIES_LICKILICKY,
 };
 
 const u16 gGrasslandPage11[] =
@@ -111,8 +111,9 @@ const u16 gGrasslandPage13[] =
 
 const u16 gGrasslandPage14[] =
 {
-	SPECIES_LICKITUNG,
-	SPECIES_LICKILICKY,
+	SPECIES_SCYTHER,
+	SPECIES_SCIZOR,
+	SPECIES_KLEAVOR,
 };
 
 const u16 gGrasslandPage15[] =
@@ -165,6 +166,8 @@ const u16 gGrasslandPage21[] =
 {
 	SPECIES_ZANGOOSE,
 	SPECIES_SEVIPER,
+	SPECIES_LITLEO,
+	SPECIES_PYROAR,
 };
 
 const u16 gGrasslandPage22[] =
@@ -179,8 +182,8 @@ const u16 gGrasslandPage23[] =
 {
 	SPECIES_GROWLITHE,
 	SPECIES_ARCANINE,
-	SPECIES_LITLEO,
-	SPECIES_PYROAR,
+	SPECIES_GROWLITHE_H,
+	SPECIES_ARCANINE_H,
 };
 
 const u16 gGrasslandPage24[] =
@@ -209,6 +212,7 @@ const u16 gGrasslandPage27[] =
 	SPECIES_CYNDAQUIL,
 	SPECIES_QUILAVA,
 	SPECIES_TYPHLOSION,
+	SPECIES_TYPHLOSION_H,
 };
 
 const u16 gGrasslandPage28[] =
@@ -597,22 +601,24 @@ const u16 gForestPage18[] =
 
 const u16 gForestPage19[] =
 {
-	SPECIES_MURKROW,
-	SPECIES_HONCHKROW,
 	SPECIES_SNEASEL,
 	SPECIES_WEAVILE,
+	SPECIES_SNEASEL_H,
+	SPECIES_SNEASLER,
 };
 
 const u16 gForestPage20[] =
 {
-	SPECIES_EXEGGCUTE,
-	SPECIES_EXEGGUTOR,
+	SPECIES_MURKROW,
+	SPECIES_HONCHKROW,
 	SPECIES_BONSLY,
 	SPECIES_SUDOWOODO,
 };
 
 const u16 gForestPage21[] =
 {
+	SPECIES_EXEGGCUTE,
+	SPECIES_EXEGGUTOR,
 	SPECIES_EXEGGCUTE_A,
 	SPECIES_EXEGGUTOR_A,
 };
@@ -622,11 +628,12 @@ const u16 gForestPage22[] =
 	SPECIES_AIPOM,
 	SPECIES_AMBIPOM,
 	SPECIES_STANTLER,
-	SPECIES_KECLEON,
+	SPECIES_WYRDEER,
 };
 
 const u16 gForestPage23[] =
 {
+	SPECIES_KECLEON,
 	SPECIES_PINSIR,
 	SPECIES_HERACROSS,
 };
@@ -723,6 +730,8 @@ const u16 gForestPage36[] =
 {
 	SPECIES_PANPOUR,
 	SPECIES_SIMIPOUR,
+	SPECIES_COTTONEE,
+	SPECIES_WHIMSICOTT,
 };
 
 const u16 gForestPage37[] =
@@ -741,16 +750,17 @@ const u16 gForestPage38[] =
 
 const u16 gForestPage39[] =
 {
-	SPECIES_COTTONEE,
-	SPECIES_WHIMSICOTT,
 	SPECIES_PETILIL,
 	SPECIES_LILLIGANT,
+	SPECIES_LILLIGANT_H,
 };
 
 const u16 gForestPage40[] =
 {
 	SPECIES_ZORUA,
 	SPECIES_ZOROARK,
+	SPECIES_ZORUA_H,
+	SPECIES_ZOROARK_H,
 };
 
 const u16 gForestPage41[] =
@@ -864,6 +874,7 @@ const u16 gForestPage55[] =
 	SPECIES_ROWLET,
 	SPECIES_DARTRIX,
 	SPECIES_DECIDUEYE,
+	SPECIES_DECIDUEYE_H,
 };
 
 const u16 gForestPage56[] =
@@ -1089,6 +1100,7 @@ const u16 gWatersEdgePage22[] =
 	SPECIES_OSHAWOTT,
 	SPECIES_DEWOTT,
 	SPECIES_SAMUROTT,
+	SPECIES_SAMUROTT_H,
 };
 
 const u16 gWatersEdgePage23[] =
@@ -1106,11 +1118,18 @@ const u16 gWatersEdgePage24[] =
 
 const u16 gWatersEdgePage25[] =
 {
+	SPECIES_BASCULIN_H,
+	SPECIES_BASCULEGION_M,
+	SPECIES_BASCULEGION_F,
+};
+
+const u16 gWatersEdgePage26[] =
+{
 	SPECIES_DUCKLETT,
 	SPECIES_SWANNA,
 };
 
-const u16 gWatersEdgePage26[] =
+const u16 gWatersEdgePage27[] =
 {
 	SPECIES_SHELMET,
 	SPECIES_ACCELGOR,
@@ -1118,7 +1137,7 @@ const u16 gWatersEdgePage26[] =
 	SPECIES_STUNFISK_G,
 };
 
-const u16 gWatersEdgePage27[] =
+const u16 gWatersEdgePage28[] =
 {
 	SPECIES_FROAKIE,
 	SPECIES_FROGADIER,
@@ -1126,13 +1145,13 @@ const u16 gWatersEdgePage27[] =
 	SPECIES_ASHGRENINJA,
 };
 
-const u16 gWatersEdgePage28[] =
+const u16 gWatersEdgePage29[] =
 {
 	SPECIES_BINACLE,
 	SPECIES_BARBARACLE,
 };
 
-const u16 gWatersEdgePage29[] =
+const u16 gWatersEdgePage30[] =
 {
 	SPECIES_SKRELP,
 	SPECIES_DRAGALGE,
@@ -1140,28 +1159,34 @@ const u16 gWatersEdgePage29[] =
 	SPECIES_CLAWITZER,
 };
 
-const u16 gWatersEdgePage30[] =
+const u16 gWatersEdgePage31[] =
 {
 	SPECIES_GOOMY,
 	SPECIES_SLIGGOO,
 	SPECIES_GOODRA,
 };
 
-const u16 gWatersEdgePage31[] =
+const u16 gWatersEdgePage32[] =
+{
+	SPECIES_SLIGGOO_H,
+	SPECIES_GOODRA_H,
+};
+
+const u16 gWatersEdgePage33[] =
 {
 	SPECIES_POPPLIO,
 	SPECIES_BRIONNE,
 	SPECIES_PRIMARINA,
 };
 
-const u16 gWatersEdgePage32[] =
+const u16 gWatersEdgePage34[] =
 {
 	SPECIES_DEWPIDER,
 	SPECIES_ARAQUANID,
 	SPECIES_BRUXISH,
 };
 
-const u16 gWatersEdgePage33[] =
+const u16 gWatersEdgePage35[] =
 {
 	SPECIES_WIMPOD,
 	SPECIES_GOLISOPOD,
@@ -1169,14 +1194,14 @@ const u16 gWatersEdgePage33[] =
 	SPECIES_PALOSSAND,
 };
 
-const u16 gWatersEdgePage34[] =
+const u16 gWatersEdgePage36[] =
 {
 	SPECIES_SOBBLE,
 	SPECIES_DRIZZILE,
 	SPECIES_INTELEON,
 };
 
-const u16 gWatersEdgePage35[] =
+const u16 gWatersEdgePage37[] =
 {
 	SPECIES_CHEWTLE,
 	SPECIES_DREDNAW,
@@ -1184,20 +1209,20 @@ const u16 gWatersEdgePage35[] =
 	SPECIES_BARRASKEWDA,
 };
 
-const u16 gWatersEdgePage36[] =
+const u16 gWatersEdgePage38[] =
 {
 	SPECIES_CLOBBOPUS,
 	SPECIES_GRAPPLOCT,
 	SPECIES_PINCURCHIN,
 };
 
-const u16 gWatersEdgePage37[] =
+const u16 gWatersEdgePage39[] =
 {
 	SPECIES_EISCUE,
 	SPECIES_EISCUE_NOICE,
 };
 
-const u16 gWatersEdgePage38[] =
+const u16 gWatersEdgePage40[] =
 {
 	SPECIES_DREEPY,
 	SPECIES_DRAKLOAK,
@@ -1246,9 +1271,8 @@ const u16 gSeaPage6[] =
 const u16 gSeaPage7[] =
 {
 	SPECIES_QWILFISH,
-	SPECIES_CORSOLA,
-	SPECIES_CORSOLA_G,
-	SPECIES_CURSOLA,
+	SPECIES_QWILFISH_H,
+	SPECIES_OVERQWIL,
 };
 
 const u16 gSeaPage8[] =
@@ -1290,6 +1314,9 @@ const u16 gSeaPage12[] =
 const u16 gSeaPage13[] =
 {
 	SPECIES_LAPRAS,
+	SPECIES_CORSOLA,
+	SPECIES_CORSOLA_G,
+	SPECIES_CURSOLA,
 };
 
 const u16 gSeaPage14[] =
@@ -1555,25 +1582,29 @@ const u16 gCavePage30[] =
 {
 	SPECIES_BERGMITE,
 	SPECIES_AVALUGG,
-	SPECIES_CARBINK,
-	SPECIES_DIANCIE,
+	SPECIES_AVALUGG_H,
 };
 
 const u16 gCavePage31[] =
+{
+	SPECIES_CARBINK,
+	SPECIES_DIANCIE,
+};
+const u16 gCavePage32[] =
 {
 	SPECIES_ZYGARDE_10,
 	SPECIES_ZYGARDE,
 	SPECIES_ZYGARDE_COMPLETE,
 };
 
-const u16 gCavePage32[] =
+const u16 gCavePage33[] =
 {
 	SPECIES_JANGMO_O,
 	SPECIES_HAKAMO_O,
 	SPECIES_KOMMO_O,
 };
 
-const u16 gCavePage33[] =
+const u16 gCavePage34[] =
 {
 	SPECIES_TAPU_KOKO,
 	SPECIES_TAPU_LELE,
@@ -1581,14 +1612,14 @@ const u16 gCavePage33[] =
 	SPECIES_TAPU_FINI,
 };
 
-const u16 gCavePage34[] =
+const u16 gCavePage35[] =
 {
 	SPECIES_ROLYCOLY,
 	SPECIES_CARKOL,
 	SPECIES_COALOSSAL,
 };
 
-const u16 gCavePage35[] =
+const u16 gCavePage36[] =
 {
 	SPECIES_REGIELEKI,
 	SPECIES_REGIDRAGO,
@@ -1672,11 +1703,12 @@ const u16 gMountainPage11[] =
 	SPECIES_SHUCKLE,
 	SPECIES_TEDDIURSA,
 	SPECIES_URSARING,
-	SPECIES_DELIBIRD,
+	SPECIES_URSALUNA,
 };
 
 const u16 gMountainPage12[] =
 {
+	SPECIES_DELIBIRD,
 	SPECIES_GLIGAR,
 	SPECIES_GLISCOR,
 	SPECIES_SPINDA,
@@ -1726,23 +1758,17 @@ const u16 gMountainPage18[] =
 
 const u16 gMountainPage19[] =
 {
-	SPECIES_MUNCHLAX,
-	SPECIES_SNORLAX,
-};
-
-const u16 gMountainPage20[] =
-{
 	SPECIES_CHARMANDER,
 	SPECIES_CHARMELEON,
 	SPECIES_CHARIZARD,
 };
 
-const u16 gMountainPage21[] =
+const u16 gMountainPage20[] =
 {
 	SPECIES_JIRACHI,
 };
 
-const u16 gMountainPage22[] =
+const u16 gMountainPage21[] =
 {
 	SPECIES_RIOLU,
 	SPECIES_LUCARIO,
@@ -1750,67 +1776,68 @@ const u16 gMountainPage22[] =
 	SPECIES_TOXICROAK,
 };
 
-const u16 gMountainPage23[] =
+const u16 gMountainPage22[] =
 {
 	SPECIES_CARNIVINE,
 	SPECIES_SNOVER,
 	SPECIES_ABOMASNOW,
 };
 
-const u16 gMountainPage24[] =
+const u16 gMountainPage23[] =
 {
 	SPECIES_TIMBURR,
 	SPECIES_GURDURR,
 	SPECIES_CONKELDURR,
 };
 
-const u16 gMountainPage25[] =
+const u16 gMountainPage24[] =
 {
 	SPECIES_THROH,
 	SPECIES_SAWK,
 };
 
-const u16 gMountainPage26[] =
+const u16 gMountainPage25[] =
 {
 	SPECIES_ARCHEN,
 	SPECIES_ARCHEOPS,
 };
 
-const u16 gMountainPage27[] =
+const u16 gMountainPage26[] =
 {
 	SPECIES_VANILLITE,
 	SPECIES_VANILLISH,
 	SPECIES_VANILLUXE,
 };
 
-const u16 gMountainPage28[] =
+const u16 gMountainPage27[] =
 {
 	SPECIES_MIENFOO,
 	SPECIES_MIENSHAO,
 	SPECIES_DRUDDIGON,
 };
 
-const u16 gMountainPage29[] =
+const u16 gMountainPage28[] =
 {
 	SPECIES_RUFFLET,
 	SPECIES_BRAVIARY,
-	SPECIES_VULLABY,
-	SPECIES_MANDIBUZZ,
+	SPECIES_BRAVIARY_H,
 };
 
-const u16 gMountainPage30[] =
+const u16 gMountainPage29[] =
 {
+	SPECIES_VULLABY,
+	SPECIES_MANDIBUZZ,
 	SPECIES_HEATMOR,
 	SPECIES_DURANT,
 };
 
-const u16 gMountainPage31[] =
+const u16 gMountainPage30[] =
 {
 	SPECIES_INKAY,
 	SPECIES_MALAMAR,
 };
 
-const u16 gMountainPage32[] =
+const u16 gMountainPage31[] =
 {
 	SPECIES_TYRUNT,
 	SPECIES_TYRANTRUM,
@@ -1818,25 +1845,25 @@ const u16 gMountainPage32[] =
 	SPECIES_AURORUS,
 };
 
-const u16 gMountainPage33[] =
+const u16 gMountainPage32[] =
 {
 	SPECIES_NOIBAT,
 	SPECIES_NOIVERN,
 };
 
-const u16 gMountainPage34[] =
+const u16 gMountainPage33[] =
 {
 	SPECIES_XERNEAS,
 	SPECIES_YVELTAL,
 };
 
-const u16 gMountainPage35[] =
+const u16 gMountainPage34[] =
 {
 	SPECIES_CRABRAWLER,
 	SPECIES_CRABOMINABLE,
 };
 
-const u16 gMountainPage36[] =
+const u16 gMountainPage35[] =
 {
 	SPECIES_ROCKRUFF,
 	SPECIES_LYCANROC,
@@ -1844,20 +1871,20 @@ const u16 gMountainPage36[] =
 	SPECIES_LYCANROC_DUSK,
 };
 
-const u16 gMountainPage37[] =
+const u16 gMountainPage36[] =
 {
 	SPECIES_SALANDIT,
 	SPECIES_SALAZZLE,
 };
 
-const u16 gMountainPage38[] =
+const u16 gMountainPage37[] =
 {
 	SPECIES_TURTONATOR,
 	SPECIES_TOGEDEMARU,
 	SPECIES_DRAMPA,
 };
 
-const u16 gMountainPage39[]=
+const u16 gMountainPage38[]=
 {
 	SPECIES_MINIOR_SHIELD,
 	SPECIES_MINIOR_RED,
@@ -1865,7 +1892,7 @@ const u16 gMountainPage39[]=
 	SPECIES_MINIOR_ORANGE,
 };
 
-const u16 gMountainPage40[]=
+const u16 gMountainPage39[]=
 {
 	SPECIES_MINIOR_YELLOW,
 	SPECIES_MINIOR_INDIGO,
@@ -1873,12 +1900,12 @@ const u16 gMountainPage40[]=
 	SPECIES_MINIOR_VIOLET,
 };
 
-const u16 gMountainPage41[] =
+const u16 gMountainPage40[] =
 {
 	SPECIES_ZERAORA,
 };
 
-const u16 gMountainPage42[] =
+const u16 gMountainPage41[] =
 {
 	SPECIES_STONJOURNER,
 	SPECIES_CUFANT,
@@ -1886,7 +1913,7 @@ const u16 gMountainPage42[] =
 	SPECIES_DURALUDON,
 };
 
-const u16 gMountainPage43[] =
+const u16 gMountainPage42[] =
 {
 	SPECIES_SNOM,
 	SPECIES_FROSMOTH,
@@ -2174,6 +2201,8 @@ const u16 gUrbanPage13[] =
 {
 	SPECIES_VOLTORB,
 	SPECIES_ELECTRODE,
+	SPECIES_VOLTORB_H,
+	SPECIES_ELECTRODE_H,
 };
 
 const u16 gUrbanPage14[] =
@@ -2378,12 +2407,18 @@ const u16 gRarePage6[] =
 const u16 gRarePage7[] =
 {
 	SPECIES_DIALGA,
+	SPECIES_DIALGA_ORIGIN,
 	SPECIES_PALKIA,
+	SPECIES_PALKIA_ORIGIN,
+};
+
+const u16 gRarePage8[] =
+{
 	SPECIES_GIRATINA,
 	SPECIES_GIRATINA_ORIGIN,
 };
 
-const u16 gRarePage8[] =
+const u16 gRarePage9[] =
 {
 	SPECIES_ARCEUS,
 	SPECIES_ARCEUS_FIRE,
@@ -2391,7 +2426,7 @@ const u16 gRarePage8[] =
 	SPECIES_ARCEUS_GRASS,
 };
 
-const u16 gRarePage9[] =
+const u16 gRarePage10[] =
 {
 	SPECIES_ARCEUS_ELECTRIC,
 	SPECIES_ARCEUS_ICE,
@@ -2399,7 +2434,7 @@ const u16 gRarePage9[] =
 	SPECIES_ARCEUS_POISON,
 };
 
-const u16 gRarePage10[] =
+const u16 gRarePage11[] =
 {
 	SPECIES_ARCEUS_GROUND,
 	SPECIES_ARCEUS_FLYING,
@@ -2407,60 +2442,62 @@ const u16 gRarePage10[] =
 	SPECIES_ARCEUS_BUG,
 };
 
-const u16 gRarePage11[] =
+const u16 gRarePage12[] =
 {
 	SPECIES_ARCEUS_ROCK,
 	SPECIES_ARCEUS_GHOST,
 	SPECIES_ARCEUS_DRAGON,
 };
 
-const u16 gRarePage12[] =
+const u16 gRarePage13[] =
 {
 	SPECIES_ARCEUS_DARK,
 	SPECIES_ARCEUS_STEEL,
 	SPECIES_ARCEUS_FAIRY,
 };
 
-const u16 gRarePage13[] =
+const u16 gRarePage14[] =
 {
 	SPECIES_VICTINI,
 };
 
-const u16 gRarePage14[] =
+const u16 gRarePage15[] =
 {
 	SPECIES_TORNADUS,
 	SPECIES_THUNDURUS,
 	SPECIES_LANDORUS,
+	SPECIES_ENAMORUS,
 };
 
-const u16 gRarePage15[] =
+const u16 gRarePage16[] =
 {
 	SPECIES_TORNADUS_THERIAN,
 	SPECIES_THUNDURUS_THERIAN,
 	SPECIES_LANDORUS_THERIAN,
+	SPECIES_ENAMORUS_THERIAN,
 };
 
-const u16 gRarePage16[] =
+const u16 gRarePage17[] =
 {
 	SPECIES_RESHIRAM,
 	SPECIES_ZEKROM,
 };
 
-const u16 gRarePage17[] =
+const u16 gRarePage18[] =
 {
 	SPECIES_KYUREM,
 	SPECIES_KYUREM_BLACK,
 	SPECIES_KYUREM_WHITE,
 };
 
-const u16 gRarePage18[] =
+const u16 gRarePage19[] =
 {
 	SPECIES_MELOETTA,
 	SPECIES_MELOETTA_PIROUETTE,
 	SPECIES_GENESECT,
 };
 
-const u16 gRarePage19[] =
+const u16 gRarePage20[] =
 {
 	SPECIES_GENESECT_SHOCK,
 	SPECIES_GENESECT_BURN,
@@ -2468,7 +2505,7 @@ const u16 gRarePage19[] =
 	SPECIES_GENESECT_DOUSE,
 };
 
-const u16 gRarePage20[] =
+const u16 gRarePage21[] =
 {
 	SPECIES_TYPE_NULL,
 	SPECIES_SILVALLY,
@@ -2476,7 +2513,7 @@ const u16 gRarePage20[] =
 	SPECIES_SILVALLY_FLYING,
 };
 
-const u16 gRarePage21[] =
+const u16 gRarePage22[] =
 {
 	SPECIES_SILVALLY_POISON,
 	SPECIES_SILVALLY_GROUND,
@@ -2484,7 +2521,7 @@ const u16 gRarePage21[] =
 	SPECIES_SILVALLY_BUG,
 };
 
-const u16 gRarePage22[] =
+const u16 gRarePage23[] =
 {
 	SPECIES_SILVALLY_GHOST,
 	SPECIES_SILVALLY_STEEL,
@@ -2492,7 +2529,7 @@ const u16 gRarePage22[] =
 	SPECIES_SILVALLY_WATER,
 };
 
-const u16 gRarePage23[] =
+const u16 gRarePage24[] =
 {
 	SPECIES_SILVALLY_GRASS,
 	SPECIES_SILVALLY_ELECTRIC,
@@ -2500,14 +2537,14 @@ const u16 gRarePage23[] =
 	SPECIES_SILVALLY_ICE,
 };
 
-const u16 gRarePage24[] =
+const u16 gRarePage25[] =
 {
 	SPECIES_SILVALLY_DRAGON,
 	SPECIES_SILVALLY_DARK,
 	SPECIES_SILVALLY_FAIRY,
 };
 
-const u16 gRarePage25[] =
+const u16 gRarePage26[] =
 {
 	SPECIES_COSMOG,
 	SPECIES_COSMOEM,
@@ -2515,7 +2552,7 @@ const u16 gRarePage25[] =
 	SPECIES_LUNALA,
 };
 
-const u16 gRarePage26[] =
+const u16 gRarePage27[] =
 {
 	SPECIES_NIHILEGO,
 	SPECIES_BUZZWOLE,
@@ -2523,29 +2560,14 @@ const u16 gRarePage26[] =
 	SPECIES_XURKITREE,
 };
 
-const u16 gRarePage27[] =
+const u16 gRarePage28[] =
 {
 	SPECIES_CELESTEELA,
 	SPECIES_KARTANA,
 	SPECIES_GUZZLORD,
 };
 
-const u16 gRarePage28[] =
-{
-	SPECIES_NECROZMA,
-	SPECIES_NECROZMA_DUSK_MANE,
-	SPECIES_NECROZMA_DAWN_WINGS,
-	SPECIES_NECROZMA_ULTRA,
-};
-
 const u16 gRarePage29[] =
-{
-	SPECIES_MAGEARNA,
-	SPECIES_MAGEARNA_P,
-	SPECIES_MARSHADOW,
-};
-
-const u16 gRarePage30[] =
 {
 	SPECIES_POIPOLE,
 	SPECIES_NAGANADEL,
@@ -2553,13 +2575,28 @@ const u16 gRarePage30[] =
 	SPECIES_BLACEPHALON,
 };
 
+const u16 gRarePage30[] =
+{
+	SPECIES_NECROZMA,
+	SPECIES_NECROZMA_DUSK_MANE,
+	SPECIES_NECROZMA_DAWN_WINGS,
+	SPECIES_NECROZMA_ULTRA,
+};
+
 const u16 gRarePage31[] =
+{
+	SPECIES_MAGEARNA,
+	SPECIES_MAGEARNA_P,
+	SPECIES_MARSHADOW,
+};
+
+const u16 gRarePage32[] =
 {
 	SPECIES_MELTAN,
 	SPECIES_MELMETAL,
 };
 
-const u16 gRarePage32[] =
+const u16 gRarePage33[] =
 {
 	SPECIES_ZACIAN,
 	SPECIES_ZACIAN_CROWNED,
@@ -2567,32 +2604,32 @@ const u16 gRarePage32[] =
 	SPECIES_ZAMAZENTA_CROWNED,
 };
 
-const u16 gRarePage33[] =
+const u16 gRarePage34[] =
 {
 	SPECIES_ETERNATUS,
 	SPECIES_ETERNATUS_ETERNAMAX,
 };
 
-const u16 gRarePage34[] =
+const u16 gRarePage35[] =
 {
 	SPECIES_KUBFU,
 	SPECIES_URSHIFU_SINGLE,
 	SPECIES_URSHIFU_RAPID,
 };
 
-const u16 gRarePage35[] =
+const u16 gRarePage36[] =
 {
 	SPECIES_ZARUDE,
 	SPECIES_ZARUDE_DADA,
 };
 
-const u16 gRarePage36[] =
+const u16 gRarePage37[] =
 {
 	SPECIES_GLASTRIER,
 	SPECIES_SPECTRIER,
 };
 
-const u16 gRarePage37[] =
+const u16 gRarePage38[] =
 {
 	SPECIES_CALYREX,
 	SPECIES_CALYREX_ICE_RIDER,
@@ -2774,6 +2811,8 @@ const struct HabitatPage gWatersEdgePages[] =
 	{gWatersEdgePage36, ARRAY_COUNT(gWatersEdgePage36)},
 	{gWatersEdgePage37, ARRAY_COUNT(gWatersEdgePage37)}, 
 	{gWatersEdgePage38, ARRAY_COUNT(gWatersEdgePage38)}, 
+	{gWatersEdgePage39, ARRAY_COUNT(gWatersEdgePage39)}, 
+	{gWatersEdgePage40, ARRAY_COUNT(gWatersEdgePage40)}, 
 };
 
 const struct HabitatPage gSeaPages[] =
@@ -2839,6 +2878,7 @@ const struct HabitatPage gCavePages[] =
 	{gCavePage33, ARRAY_COUNT(gCavePage33)}, 
 	{gCavePage34, ARRAY_COUNT(gCavePage34)}, 
 	{gCavePage35, ARRAY_COUNT(gCavePage35)}, 
+	{gCavePage36, ARRAY_COUNT(gCavePage36)}, 
 };
 
 const struct HabitatPage gMountainPages[] =
@@ -2885,7 +2925,6 @@ const struct HabitatPage gMountainPages[] =
 	{gMountainPage40, ARRAY_COUNT(gMountainPage40)},
 	{gMountainPage41, ARRAY_COUNT(gMountainPage41)},
 	{gMountainPage42, ARRAY_COUNT(gMountainPage42)},
-	{gMountainPage43, ARRAY_COUNT(gMountainPage43)},
 };
 
 const struct HabitatPage gRoughTerrainPages[] =
@@ -3000,6 +3039,7 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage35, ARRAY_COUNT(gRarePage35)},
 	{gRarePage36, ARRAY_COUNT(gRarePage36)},
 	{gRarePage37, ARRAY_COUNT(gRarePage37)},
+	{gRarePage38, ARRAY_COUNT(gRarePage38)},
 };
 
 const struct Habitat gHabitatPtrsTable[9] =

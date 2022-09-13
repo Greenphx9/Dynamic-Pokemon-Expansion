@@ -1534,6 +1534,27 @@ As it dashes through the night, it\nabsorbs the life energy of sleeping Pok\emon
 #org @DEX_ENTRY_CALYREX
 Its every move is filled with grace\nand dignity. Extremely intelligent, it is said\nto see past, present, and future events.
 
+#org @DEX_ENTRY_WYRDEER
+The fur shed from its beard retains heat\nwell and is a highly useful material for\nwinter clothing.
+
+#org @DEX_ENTRY_KLEAVOR
+A violent creature that fells towering\ntrees with its crude axes and shields\nitself with hard stone.
+
+#org @DEX_ENTRY_URSALUNA
+Swampy terrain gave Ursaluna its burly\nphysique and newfound capacity to\nmanipulate peat at will.
+
+#org @DEX_ENTRY_BASCULEGION
+It clads itself in the souls of comrades\nthat perished before fulfilling their\ngoals of journeying upstream.
+
+#org @DEX_ENTRY_SNEASLER
+It has virulent poison and daunting\nphysical prowess. Preferring solitude,\nthis species does not form packs.
+
+#org @DEX_ENTRY_OVERQWIL
+Its lancelike spikes and savage\ntemperament have earned it the\nnickname "sea fiend.\"
+
+#org @DEX_ENTRY_ENAMORUS
+According to legend, this Pok\emon's love\ngives rise to the budding of fresh life\nacross the land.
+
 //Special Form Entries
 
 #org @DEX_ENTRY_RATTATA_A
@@ -1683,6 +1704,9 @@ Lunala no longer has a will of its own.\nNow under the control of Necrozma, it\n
 #org @DEX_ENTRY_NECROZMA_ULTRA
 This is its form when it has absorbed\noverwhelming light energy. It fires\nlaser beams from all over its body.
 
+#org @DEX_ENTRY_MAGEARNA_P
+It functions thanks to its artificial soul.\nThe vivid decoration is proof that it\nwas presented as a gift to royalty.
+
 #org @DEX_ENTRY_CRAMORANT_GULPING
 The slightest shock is sometimes\nenough to get this Pok\emon to spit\nout the Arrokuda lodged in its throat.
 
@@ -1745,3 +1769,114 @@ It is said that it once moved a\nlarge forest,and all the Pok\emon living there,
 
 #org @DEX_ENTRY_CALYREX_SHADOW_RIDER
 Legends say that by using its power\nto see all from the past and future, this Pok\emon\nsaved forest creatures from a meteor strike.
+
+#org @DEX_ENTRY_GROWLITHE_H
+These Pok\emon live in packs in the\nsnowy mountains and defend themselves\nwith icy breath.
+
+#org @DEX_ENTRY_ARCANINE_H
+It is said to guide virtuous people who\nhave lost their way on mountain paths\nback down to the mountain's base.
+
+#org @DEX_ENTRY_VOLTORB_H
+When excited, Voltorb discharges the\nelectric current it has stored in its\nbelly, then lets out a great laugh.
+
+#org @DEX_ENTRY_ELECTRODE_H
+When irritated, this Pok\emon lets\nloose an electric current equal to\n20 lightning bolts.
+
+#org @DEX_ENTRY_TYPHLOSION_H
+It is said to purify lost, forsaken\nsouls with its flames and guide\nthem to the afterlife.
+
+#org @DEX_ENTRY_QWILFISH_H
+Fisherman detest this troublesome\nPok\emon because it sprays poison from\nits spines, getting it everywhere.
+
+#org @DEX_ENTRY_SNEASEL_H
+From the tips of its claws drips\na venom that infiltrates the nerves\nof any prey caught in its grasp.
+
+#org @DEX_ENTRY_SAMUROTT_H
+Hard of heart and deft of blade,\nits turbulent blows crash into foes\nlike ceaseless pounding waves.
+
+#org @DEX_ENTRY_LILLIGANT_H
+The leaves on its head are highly\nvalued for medicinal purposes when\ndried in the sun and boiled.
+
+#org @DEX_ENTRY_BASCULIN_H
+This Basculin differs from others in\nseveral respects, including its\ndemeanor - this one is gentle.
+
+#org @DEX_ENTRY_ZORUA_H
+A once-departed soul, returned to\nlife. It derives power from resentment,\nwhich rises as energy atop its head.
+
+#org @DEX_ENTRY_ZOROARK_H
+Heedless of its own safety, it attacks\nits nemeses with a bitter energy so\nintense, it lacerates its own body.
+
+#org @DEX_ENTRY_BRAVIARY_H
+It is said to blast lakes with shock\nwaves, then scoops up any prey\nthat float to the water's surface.
+
+#org @DEX_ENTRY_SLIGGOO_H
+It is said its metallic shell developed\nas a result of the mucus on its skin\nreacting with the iron in ancient water.
+
+#org @DEX_ENTRY_GOODRA_H
+Able to freely control the hardness\nof its metallic shell. It loathes\nsolitude and is extremely clingy.
+
+#org @DEX_ENTRY_AVALUGG_H
+The armor of ice covering its lower\njaw puts steel to shame and can\nshatter rocks with ease.
+
+#org @DEX_ENTRY_DECIDUEYE_H
+The air stored inside the rachises of\nDecidueye's feathers insulates the\nPok\emon against extreme cold.
+
+#org @DEX_CATEGORY_HOOPA_UNBOUND
+Djinn
+
+#org @DEX_CATEGORY_CALYREX_ICE_RIDER
+#org @DEX_CATEGORY_CALYREX_SHADOW_RIDER
+High King
+
+#org @DEX_CATEGORY_PONYTA_G
+#org @DEX_CATEGORY_RAPIDASH_G
+Unique Horn
+
+#org @DEX_CATEGORY_MR_MIME_G
+Dancing
+
+#org @DEX_CATEGORY_SLOWKING_G
+Hexpert
+
+#org @DEX_CATEGORY_ARTICUNO_G
+Cruel
+
+#org @DEX_CATEGORY_ZAPDOS_G
+Strong Legs
+
+#org @DEX_CATEGORY_MOLTRES_G
+Malevolent
+
+#org @DEX_CATEGORY_DARMANITAN_G
+Zen Charm
+
+#org @DEX_CATEGORY_GROWLITHE_H
+Scout
+
+#org @DEX_CATEGORY_VOLTORB_H
+#org @DEX_CATEGORY_ELECTRODE_H
+Sphere
+
+#org @DEX_CATEGORY_TYPHLOSION_H
+Ghost Flame
+
+#org @DEX_CATEGORY_LILLIGANT_H
+Spinning
+
+#org @DEX_CATEGORY_BASCULIN_H
+Mellow
+
+#org @DEX_CATEGORY_ZORUA_H
+SpitefulFox
+
+#org @DEX_CATEGORY_ZOROARK_H
+Baneful Fox
+
+#org @DEX_CATEGORY_BRAVIARY_H
+Battle Cry
+
+#org @DEX_CATEGORY_SLIGGOO_H
+Snail
+
+#org @DEX_CATEGORY_GOODRA_H
+ShellBunker
