@@ -6483,5 +6483,25 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x2,
 	},
+	[SPECIES_ANNIHILAPE] =
+	{
+		.size = 0x0,
+		.y_offset = 0x7,
+	},
+	[SPECIES_FARIGIRAF] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_DUDUNSPARCE] =
+	{
+		.size = 0x0,
+		.y_offset = 0x6,
+	},
+	[SPECIES_KINGAMBIT] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
 };
 

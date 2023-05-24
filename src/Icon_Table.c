@@ -1299,4 +1299,8 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_ENAMORUS] = gIconSprite1258EnamorusTiles,
 	[SPECIES_ENAMORUS_T] = gIconSprite1259EnamorusTTiles,
 	[SPECIES_BASCULEGION_F] = gIconSprite1260BasculegionFTiles,
+	[SPECIES_ANNIHILAPE] = gIconSprite1261AnnihilapeTiles,
+	[SPECIES_FARIGIRAF] = gIconSprite1262FarigirafTiles,
+	[SPECIES_DUDUNSPARCE] = gIconSprite1263DudunsparceTiles,
+	[SPECIES_KINGAMBIT] = gIconSprite1264KingambitTiles,
 };

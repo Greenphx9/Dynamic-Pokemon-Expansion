@@ -1302,4 +1302,8 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_ENAMORUS] =			 {gBackShinySprite1258EnamorusTiles, (64 * 64) / 2, SPECIES_ENAMORUS },
 	[SPECIES_ENAMORUS_T] =			 {gBackShinySprite1259EnamorusTTiles, (64 * 64) / 2, SPECIES_ENAMORUS_T },
 	[SPECIES_BASCULEGION_F] =		 {gBackShinySprite1260BasculegionFTiles, (64 * 64) / 2, SPECIES_BASCULEGION_F },
+	[SPECIES_ANNIHILAPE] =		 	 {gBackShinySprite1261AnnihilapeTiles, (64 * 64) / 2, SPECIES_ANNIHILAPE },
+	[SPECIES_FARIGIRAF] =		 	 {gBackShinySprite1262FarigirafTiles, (64 * 64) / 2, SPECIES_FARIGIRAF },
+	[SPECIES_DUDUNSPARCE] =		 	 {gBackShinySprite1263DudunsparceTiles, (64 * 64) / 2, SPECIES_DUDUNSPARCE },
+	[SPECIES_KINGAMBIT] =		 	 {gBackShinySprite1264KingambitTiles, (64 * 64) / 2, SPECIES_KINGAMBIT },
 };

@@ -1015,8 +1015,12 @@ enum
 #define NATIONAL_DEX_OVERQWIL 904
 #define NATIONAL_DEX_ENAMORUS 905
 #define NATIONAL_DEX_MISSINGNO 906
+#define NATIONAL_DEX_ANNIHILAPE 907
+#define NATIONAL_DEX_FARIGIRAF 908
+#define NATIONAL_DEX_DUDUNSPARCE 909
+#define NATIONAL_DEX_KINGAMBIT 910
 
-#define FINAL_DEX_ENTRY NATIONAL_DEX_MISSINGNO //Not +1 b/c used like this for some asm
+#define FINAL_DEX_ENTRY NATIONAL_DEX_KINGAMBIT //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
 
 extern const u8 DEX_ENTRY_TURTWIG[];
@@ -1632,3 +1636,8 @@ extern const u8 DEX_ENTRY_SNEASLER[];
 extern const u8 DEX_ENTRY_BASCULEGION[];
 extern const u8 DEX_ENTRY_KLEAVOR[];
 extern const u8 DEX_ENTRY_ENAMORUS[];
+
+extern const u8 DEX_ENTRY_ANNIHILAPE[];
+extern const u8 DEX_ENTRY_FARIGIRAF[];
+extern const u8 DEX_ENTRY_DUDUNSPARCE[];
+extern const u8 DEX_ENTRY_KINGAMBIT[];

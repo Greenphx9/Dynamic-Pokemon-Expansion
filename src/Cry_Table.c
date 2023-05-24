@@ -15222,4 +15222,52 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
+	[SPECIES_ANNIHILAPE] = 
+	{	
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = gCryAnnihilape,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_FARIGIRAF] = 
+	{	
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = gCryFarigiraf,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_DUDUNSPARCE] = 
+	{	
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = gCryDudunsparce,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
+	[SPECIES_KINGAMBIT] = 
+	{	
+		.type = 0x20,
+		.key = 0x3c,
+		.length = 0x0,
+		.pan_sweep = 0x0,
+		.wav = gCryKingambit,
+		.attack = 0xff,
+		.decay = 0x0,
+		.sustain = 0xff,
+		.release = 0x0,
+	},
 };

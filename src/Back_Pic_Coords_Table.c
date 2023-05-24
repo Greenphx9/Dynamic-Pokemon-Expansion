@@ -6483,4 +6483,24 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
+	[SPECIES_ANNIHILAPE] =
+	{
+		.size = 0x0,
+		.y_offset = 0x1,
+	},
+	[SPECIES_FARIGIRAF] =
+	{
+		.size = 0x0,
+		.y_offset = 0x1,
+	},
+	[SPECIES_DUDUNSPARCE] =
+	{
+		.size = 0x0,
+		.y_offset = 0xF,
+	},
+	[SPECIES_KINGAMBIT] =
+	{
+		.size = 0x0,
+		.y_offset = 0x11,
+	},
 };

@@ -1302,4 +1302,8 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_ENAMORUS] = { gFrontSprite1258EnamorusPal, SPECIES_ENAMORUS, 0x0 },
 	[SPECIES_ENAMORUS_T] = { gFrontSprite1259EnamorusTPal, SPECIES_ENAMORUS_T, 0x0 },
 	[SPECIES_BASCULEGION_F] = { gFrontSprite1260BasculegionFPal, SPECIES_BASCULEGION_F, 0x0 },
+	[SPECIES_ANNIHILAPE] = { gFrontSprite1261AnnihilapePal, SPECIES_ANNIHILAPE, 0x0 },
+	[SPECIES_FARIGIRAF] = { gFrontSprite1262FarigirafPal, SPECIES_FARIGIRAF, 0x0 },
+	[SPECIES_DUDUNSPARCE] = { gFrontSprite1263DudunsparcePal, SPECIES_DUDUNSPARCE, 0x0 },
+	[SPECIES_KINGAMBIT] = { gFrontSprite1264KingambitPal, SPECIES_KINGAMBIT, 0x0 },
 };

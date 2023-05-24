@@ -1302,4 +1302,8 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_ENAMORUS] =			 {gFrontSprite1258EnamorusTiles, (64 * 64) / 2, SPECIES_ENAMORUS },
 	[SPECIES_ENAMORUS_T] =			 {gFrontSprite1259EnamorusTTiles, (64 * 64) / 2, SPECIES_ENAMORUS_T },
 	[SPECIES_BASCULEGION_F] =		 {gFrontSprite1260BasculegionFTiles, (64 * 64) / 2, SPECIES_BASCULEGION_F },
+	[SPECIES_ANNIHILAPE] =		 	 {gFrontSprite1261AnnihilapeTiles, (64 * 64) / 2, SPECIES_ANNIHILAPE },
+	[SPECIES_FARIGIRAF] =		 	 {gFrontSprite1262FarigirafTiles, (64 * 64) / 2, SPECIES_FARIGIRAF },
+	[SPECIES_DUDUNSPARCE] =		 	 {gFrontSprite1263DudunsparceTiles, (64 * 64) / 2, SPECIES_DUDUNSPARCE },
+	[SPECIES_KINGAMBIT] =		 	 {gFrontSprite1264KingambitTiles, (64 * 64) / 2, SPECIES_KINGAMBIT },
 };

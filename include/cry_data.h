@@ -549,3 +549,8 @@ extern u8 gCrySneasler[];
 extern u8 gCryOverqwil[];
 extern u8 gCryEnamorus[];
 extern u8 gCryEnamorusTherian[];
+
+extern u8 gCryAnnihilape[];
+extern u8 gCryDudunsparce[];
+extern u8 gCryFarigiraf[];
+extern u8 gCryKingambit[];

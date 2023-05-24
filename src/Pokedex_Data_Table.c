@@ -10892,6 +10892,54 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 0,
 	},
+	[NATIONAL_DEX_ANNIHILAPE] =
+	{
+		.categoryName = {_R, _a, _g, _e, _SPACE, _M, _o, _n, _k, _e, _y, _END},
+		.height = 12,
+		.weight = 560,
+		.description = DEX_ENTRY_ANNIHILAPE,
+		.unusedDescription = (const u8*)0x8444cb1,
+		.pokemonScale = 256,
+		.pokemonOffset = 0,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+	[NATIONAL_DEX_FARIGIRAF] =
+	{
+		.categoryName = {_L, _o, _n, _g, _SPACE, _N, _e, _c, _k, _END, _SPACE, _SPACE},
+		.height = 32,
+		.weight = 1600,
+		.description = DEX_ENTRY_FARIGIRAF,
+		.unusedDescription = (const u8*)0x8444cb1,
+		.pokemonScale = 256,
+		.pokemonOffset = 0,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+	[NATIONAL_DEX_DUDUNSPARCE] =
+	{
+		.categoryName = {_L, _a, _n, _d, _SPACE, _S, _n, _a, _k, _e, _END, _SPACE},
+		.height = 36,
+		.weight = 392,
+		.description = DEX_ENTRY_DUDUNSPARCE,
+		.unusedDescription = (const u8*)0x8444cb1,
+		.pokemonScale = 256,
+		.pokemonOffset = 0,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+	[NATIONAL_DEX_KINGAMBIT] =
+	{
+		.categoryName = {_B, _i, _g, _SPACE, _B, _l, _a, _d, _e, _END, _SPACE, _SPACE},
+		.height = 20,
+		.weight = 1200,
+		.description = DEX_ENTRY_KINGAMBIT,
+		.unusedDescription = (const u8*)0x8444cb1,
+		.pokemonScale = 256,
+		.pokemonOffset = 0,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed

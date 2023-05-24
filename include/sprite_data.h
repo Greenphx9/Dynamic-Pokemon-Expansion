@@ -1268,6 +1268,10 @@ extern const u8 gFrontSprite1257GoodraHTiles[];
 extern const u8 gFrontSprite1258EnamorusTiles[];
 extern const u8 gFrontSprite1259EnamorusTTiles[];
 extern const u8 gFrontSprite1260BasculegionFTiles[];
+extern const u8 gFrontSprite1261AnnihilapeTiles[];
+extern const u8 gFrontSprite1262FarigirafTiles[];
+extern const u8 gFrontSprite1263DudunsparceTiles[];
+extern const u8 gFrontSprite1264KingambitTiles[];
 
 extern const u8 gFrontSprite252Tiles[];
 
@@ -2539,6 +2543,10 @@ extern const u8 gBackShinySprite1257GoodraHTiles[];
 extern const u8 gBackShinySprite1258EnamorusTiles[];
 extern const u8 gBackShinySprite1259EnamorusTTiles[];
 extern const u8 gBackShinySprite1260BasculegionFTiles[];
+extern const u8 gBackShinySprite1261AnnihilapeTiles[];
+extern const u8 gBackShinySprite1262FarigirafTiles[];
+extern const u8 gBackShinySprite1263DudunsparceTiles[];
+extern const u8 gBackShinySprite1264KingambitTiles[];
 
 extern const u8 gBackShinySprite252Tiles[];
 
@@ -3812,6 +3820,10 @@ extern const u8 gFrontSprite1257GoodraHPal[];
 extern const u8 gFrontSprite1258EnamorusPal[];
 extern const u8 gFrontSprite1259EnamorusTPal[];
 extern const u8 gFrontSprite1260BasculegionFPal[];
+extern const u8 gFrontSprite1261AnnihilapePal[];
+extern const u8 gFrontSprite1262FarigirafPal[];
+extern const u8 gFrontSprite1263DudunsparcePal[];
+extern const u8 gFrontSprite1264KingambitPal[];
 
 extern const u8 gFrontSprite252Pal[];
 
@@ -5083,6 +5095,10 @@ extern const u8 gBackShinySprite1257GoodraHPal[];
 extern const u8 gBackShinySprite1258EnamorusPal[];
 extern const u8 gBackShinySprite1259EnamorusTPal[];
 extern const u8 gBackShinySprite1260BasculegionFPal[];
+extern const u8 gBackShinySprite1261AnnihilapePal[];
+extern const u8 gBackShinySprite1262FarigirafPal[];
+extern const u8 gBackShinySprite1263DudunsparcePal[];
+extern const u8 gBackShinySprite1264KingambitPal[];
 
 extern const u8 gBackShinySprite252Pal[];
 
@@ -6358,5 +6374,9 @@ extern const u8 gIconSprite1257GoodraHTiles[];
 extern const u8 gIconSprite1258EnamorusTiles[];
 extern const u8 gIconSprite1259EnamorusTTiles[];
 extern const u8 gIconSprite1260BasculegionFTiles[];
+extern const u8 gIconSprite1261AnnihilapeTiles[];
+extern const u8 gIconSprite1262FarigirafTiles[];
+extern const u8 gIconSprite1263DudunsparceTiles[];
+extern const u8 gIconSprite1264KingambitTiles[];
 
 extern const u8 gIconSprite252Tiles[];
