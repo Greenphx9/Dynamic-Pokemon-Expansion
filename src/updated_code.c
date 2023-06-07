@@ -133,7 +133,7 @@ void LoadSpecialPokePic(const struct CompressedSpriteSheet* src, void* dest, u16
 	else if (species > NUM_SPECIES) // is species unknown? draw the ? icon
 		LZ77UnCompWram((void*) gMonFrontPicTable[0].data, dest);
 	else
-		LZ77UnCompWram((void*) src->data, dest);
+	LZ77UnCompWram((void*) src->data, dest);
 
 	DrawSpindaSpots(species, personality, dest, isFrontPic);
 }

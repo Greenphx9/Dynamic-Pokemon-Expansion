@@ -6503,4 +6503,114 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x11,
 	},
+	[SPECIES_TOEDSCOOL] =
+	{
+		.size = 0x0,
+		.y_offset = 8,
+	},
+	[SPECIES_TOEDSCRUEL] =
+	{
+		.size = 0x0,
+		.y_offset = 11,
+	},
+	[SPECIES_WIGLETT] =
+	{
+		.size = 0x0,
+		.y_offset = 14,
+	},
+	[SPECIES_WUGTRIO] =
+	{
+		.size = 0x0,
+		.y_offset = 11,
+	},
+	[SPECIES_WOOPER_P] =
+	{
+		.size = 0x0,
+		.y_offset = 12,
+	},
+	[SPECIES_CLODSIRE] =
+	{
+		.size = 0x0,
+		.y_offset = 15,
+	},
+	[SPECIES_GREAT_TUSK] =
+	{
+		.size = 0x0,
+		.y_offset = 4,
+	},
+	[SPECIES_SCREAM_TAIL] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BRUTE_BONNET] =
+	{
+		.size = 0x0,
+		.y_offset = 12,
+	},
+	[SPECIES_FLUTTER_MANE] =
+	{
+		.size = 0x0,
+		.y_offset = 10,
+	},
+	[SPECIES_SLITHER_WING] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_SANDY_SHOCKS] =
+	{
+		.size = 0x0,
+		.y_offset = 2,
+	},
+	[SPECIES_ROARING_MOON] =
+	{
+		.size = 0x0,
+		.y_offset = 7,
+	},
+	[SPECIES_WALKING_WAKE] =
+	{
+		.size = 0x0,
+		.y_offset = 3,
+	},
+	[SPECIES_IRON_TREADS] =
+	{
+		.size = 0x0,
+		.y_offset = 5,
+	},
+	[SPECIES_IRON_BUNDLE] =
+	{
+		.size = 0x0,
+		.y_offset = 6,
+	},
+	[SPECIES_IRON_HANDS] =
+	{
+		.size = 0x0,
+		.y_offset = 10,
+	},
+	[SPECIES_IRON_JUGULIS] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_MOTH] =
+	{
+		.size = 0x0,
+		.y_offset = 2,
+	},
+	[SPECIES_IRON_THORNS] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_VALIANT] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_IRON_LEAVES] =
+	{
+		.size = 0x0,
+		.y_offset = 8,
+	},
 };
